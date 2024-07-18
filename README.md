@@ -10,6 +10,10 @@ Antes de comenzar, asegúrate de tener instalado lo siguiente:
 - [Android Studio](https://developer.android.com/studio)
 - Un dispositivo Android o un emulador configurado
 
+Tener el correo para el Firebase
+correo: firebaseusersof@gmail.com
+Contraseña: firebaseutem
+
 ## Instalación
 
 1. Clona el repositorio en tu máquina local:
